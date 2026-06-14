@@ -28,3 +28,7 @@ faiss_index/
 # OS
 .DS_Store
 Thumbs.db
+
+.env
+backend/.env
+api_key.txt
