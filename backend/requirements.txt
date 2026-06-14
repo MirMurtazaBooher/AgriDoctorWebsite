@@ -4,6 +4,3 @@ requests
 python-dotenv
 groq
 
-
-cd ../frontend
-pip install streamlit requests

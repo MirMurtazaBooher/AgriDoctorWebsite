@@ -8,3 +8,23 @@ __pycache__/
 
 # Virtual environment
 venv/
+
+# Environment
+.env
+venv/
+__pycache__/
+*.pyc
+
+# API Keys
+*.env
+secrets.toml
+.streamlit/secrets.toml
+
+# Vector DB / embeddings cache
+chroma_db/
+faiss_index/
+*.pkl
+
+# OS
+.DS_Store
+Thumbs.db

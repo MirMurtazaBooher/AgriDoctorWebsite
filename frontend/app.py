@@ -6,9 +6,9 @@ BACKEND_URL = "http://127.0.0.1:8000/chat"
 API_KEY = "kc_live_8f29a1c3d7b44e9aa62f"  # ← paste the key generated from /generate-api-key
 # ------------------------------------------
 
-st.set_page_config(page_title="KissanConnect", page_icon="🌾")
+st.set_page_config(page_title="AgriDoctor", page_icon="🌾")
 
-st.title("🌾 KissanConnect")
+st.title("🌾 AgriDoctor")
 st.subheader("Agriculture & Crop Disease Advisor")
 
 st.markdown("Ask questions about crops, diseases, treatment, and prevention.")
